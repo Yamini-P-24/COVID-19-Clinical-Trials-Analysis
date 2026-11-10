@@ -1,4 +1,4 @@
-# COVID-19 Clinical Trials: Data Cleaning, SQL Analysis and Power BI Dashboard
+# COVID-19 Clinical Trials: Data Cleaning, SQL Analysis, Power BI Dashboard & LLM Text-to-SQL Engine
 
 > **Project at a Glance:** 
 > - **5,783** Clinical trials analyzed
